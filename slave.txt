@@ -1,1 +1,3 @@
 File is on the slave branch, but it should be eventually merged to master.
+
+This is a subsequent edit to show how git diff works.
